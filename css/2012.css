@@ -1,0 +1,36 @@
+article header.entry-header div.entry-meta{
+	margin:1em 0;
+}
+.rating-ideas{
+	margin:1em 0;
+}
+
+.new-idea-form ul.tagEditor li {
+	margin-left:0;
+	margin-right:1em;
+}
+
+#ideastream_featured{
+	background: #E6E6E6!important;
+}
+
+.mce_WPideaStreamImg img, .mce_WPideaStreamLink img{
+	border-radius:0px!important;
+	box-shadow:none!important;
+}
+
+.ideastream_btn{
+	background:#E6E6E6!important;
+	color:#7C7C7C!important;
+	line-height:1.4em;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border:none;
+	padding:5px;
+}
+.ideastream_btn:hover{
+	background:#E6E6E6!important;
+	color:#7C7C7C!important;
+	border:1px solid #D2D2D2!important;
+}
